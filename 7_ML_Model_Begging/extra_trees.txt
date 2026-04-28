@@ -1,0 +1,7 @@
+
+MODEL: extra_trees
+
+Accuracy : 0.95
+Precision: 0.954486512724499
+Recall   : 0.95
+F1 Score : 0.9453148650561125

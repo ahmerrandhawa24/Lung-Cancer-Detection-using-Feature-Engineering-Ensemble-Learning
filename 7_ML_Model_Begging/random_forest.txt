@@ -1,0 +1,7 @@
+
+MODEL: random_forest
+
+Accuracy : 0.9409090909090909
+Precision: 0.9459584980237155
+Recall   : 0.9409090909090909
+F1 Score : 0.9350360114044325
